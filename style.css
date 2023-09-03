@@ -170,6 +170,7 @@ nav{
 }
 .pioneer{
     margin-left: 50px;
+    border-color: none;
 }
 .color{
     color: #2f80ed;
@@ -190,26 +191,31 @@ nav{
     font-size: small;
 }
 .cardone2{
+    padding: 10px;
     width:250px;
     height: 300px;
     font-size: small;
 }
 .cardone3{
+    padding: 10px;
     width:250px;
     height: 330px;
     font-size: small;
 }
 .cardone4{
+    padding: 10px;
     width:250px;
     height: 200px;
     font-size: small;
 }
 .cardone5{
+    padding: 10px;
     width:250px;
     height: 300px;
     font-size: small;
 }
 .cardone6{
+    padding: 10px;
     width:250px;
     height: 230px;
     font-size: small;
